@@ -1,5 +1,7 @@
 Dimitrios Eleftheriadis 2015030067
 
+"Assignement 4.pdf" has all the necessary information about this project. 
+
 gcc --version: gcc (Ubuntu 9.3.0-17ubuntu1~20.04)
 
 Run "make clean" and then "make all" to build the code
